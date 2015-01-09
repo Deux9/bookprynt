@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 output = ""
 inputcount = int(raw_input("How many pages is your document?\n"))
 first = int(raw_input("Which page do you want printed first?\n"))
